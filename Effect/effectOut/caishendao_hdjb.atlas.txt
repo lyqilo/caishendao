@@ -1,0 +1,230 @@
+
+caishendao_hdjb.png
+size: 1044,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1q
+  rotate: true
+  xy: 2, 2
+  size: 101, 103
+  orig: 212, 212
+  offset: 53, 58
+  index: -1
+2q
+  rotate: false
+  xy: 877, 222
+  size: 125, 124
+  orig: 212, 212
+  offset: 28, 51
+  index: -1
+3q
+  rotate: true
+  xy: 742, 158
+  size: 143, 133
+  orig: 212, 212
+  offset: 23, 40
+  index: -1
+4q
+  rotate: true
+  xy: 583, 133
+  size: 168, 157
+  orig: 212, 212
+  offset: 16, 25
+  index: -1
+5q
+  rotate: false
+  xy: 398, 125
+  size: 183, 176
+  orig: 212, 212
+  offset: 10, 15
+  index: -1
+6q
+  rotate: false
+  xy: 200, 111
+  size: 196, 190
+  orig: 212, 212
+  offset: 4, 9
+  index: -1
+7q
+  rotate: false
+  xy: 803, 348
+  size: 199, 194
+  orig: 212, 212
+  offset: 3, 9
+  index: -1
+9q
+  rotate: false
+  xy: 2, 105
+  size: 196, 196
+  orig: 212, 212
+  offset: 6, 9
+  index: -1
+a
+  rotate: false
+  xy: 880, 24
+  size: 80, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 714, 31
+  size: 100, 37
+  orig: 123, 37
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 656, 303
+  size: 209, 38
+  orig: 221, 38
+  offset: 3, 0
+  index: -1
+d
+  rotate: true
+  xy: 1004, 309
+  size: 233, 38
+  orig: 245, 38
+  offset: 4, 0
+  index: -1
+e
+  rotate: false
+  xy: 200, 71
+  size: 211, 38
+  orig: 239, 38
+  offset: 9, 0
+  index: -1
+f
+  rotate: false
+  xy: 107, 31
+  size: 219, 38
+  orig: 248, 38
+  offset: 26, 0
+  index: -1
+g
+  rotate: false
+  xy: 405, 303
+  size: 249, 38
+  orig: 278, 38
+  offset: 13, 0
+  index: -1
+gaung
+  rotate: false
+  xy: 877, 120
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+h
+  rotate: true
+  xy: 1004, 103
+  size: 204, 38
+  orig: 226, 38
+  offset: 22, 0
+  index: -1
+jingbiguang
+  rotate: false
+  xy: 583, 2
+  size: 129, 129
+  orig: 150, 150
+  offset: 13, 6
+  index: -1
+tishi_hdjb_bg
+  rotate: false
+  xy: 2, 343
+  size: 799, 199
+  orig: 801, 201
+  offset: 1, 1
+  index: -1
+tishi_hdjb_wz
+  rotate: false
+  xy: 2, 303
+  size: 401, 38
+  orig: 409, 51
+  offset: 5, 7
+  index: -1
+u1
+  rotate: false
+  xy: 489, 67
+  size: 69, 56
+  orig: 71, 58
+  offset: 1, 1
+  index: -1
+u10
+  rotate: false
+  xy: 880, 63
+  size: 64, 55
+  orig: 66, 57
+  offset: 1, 1
+  index: -1
+u11
+  rotate: false
+  xy: 386, 5
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+u12
+  rotate: false
+  xy: 452, 8
+  size: 64, 57
+  orig: 66, 59
+  offset: 1, 1
+  index: -1
+u2
+  rotate: false
+  xy: 413, 67
+  size: 74, 56
+  orig: 76, 58
+  offset: 1, 1
+  index: -1
+u3
+  rotate: true
+  xy: 328, 2
+  size: 67, 56
+  orig: 69, 58
+  offset: 1, 1
+  index: -1
+u4
+  rotate: false
+  xy: 753, 34
+  size: 65, 59
+  orig: 67, 61
+  offset: 1, 1
+  index: -1
+u5
+  rotate: false
+  xy: 753, 95
+  size: 66, 61
+  orig: 68, 63
+  offset: 1, 1
+  index: -1
+u6
+  rotate: false
+  xy: 820, 31
+  size: 58, 59
+  orig: 60, 61
+  offset: 1, 1
+  index: -1
+u7
+  rotate: false
+  xy: 518, 7
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+u8
+  rotate: false
+  xy: 962, 44
+  size: 61, 57
+  orig: 63, 59
+  offset: 1, 1
+  index: -1
+u9
+  rotate: true
+  xy: 821, 92
+  size: 64, 54
+  orig: 66, 56
+  offset: 1, 1
+  index: -1

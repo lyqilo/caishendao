@@ -1,0 +1,125 @@
+
+ani_cs_wild1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ture/Itemcaishendi
+  rotate: false
+  xy: 2, 524
+  size: 210, 129
+  orig: 210, 129
+  offset: 0, 0
+  index: -1
+Ture/Wild_txt1
+  rotate: false
+  xy: 2, 910
+  size: 222, 78
+  orig: 222, 129
+  offset: 0, 35
+  index: -1
+Ture/eff_wild1/eff_wild_0000
+  rotate: false
+  xy: 684, 736
+  size: 232, 84
+  orig: 256, 140
+  offset: 7, 39
+  index: -1
+Ture/eff_wild1/eff_wild_0002
+  rotate: false
+  xy: 740, 649
+  size: 248, 85
+  orig: 256, 140
+  offset: 0, 39
+  index: -1
+Ture/eff_wild1/eff_wild_0004
+  rotate: false
+  xy: 226, 653
+  size: 254, 84
+  orig: 256, 140
+  offset: 0, 39
+  index: -1
+Ture/eff_wild1/eff_wild_0006
+  rotate: false
+  xy: 482, 650
+  size: 256, 84
+  orig: 256, 140
+  offset: 0, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0008
+  rotate: false
+  xy: 727, 822
+  size: 256, 83
+  orig: 256, 140
+  offset: 0, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0010
+  rotate: false
+  xy: 226, 824
+  size: 256, 82
+  orig: 256, 140
+  offset: 0, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0012
+  rotate: false
+  xy: 226, 908
+  size: 251, 80
+  orig: 256, 140
+  offset: 5, 39
+  index: -1
+Ture/eff_wild1/eff_wild_0014
+  rotate: false
+  xy: 479, 908
+  size: 246, 80
+  orig: 256, 140
+  offset: 10, 39
+  index: -1
+Ture/eff_wild1/eff_wild_0016
+  rotate: false
+  xy: 484, 824
+  size: 241, 82
+  orig: 256, 140
+  offset: 13, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0018
+  rotate: false
+  xy: 226, 739
+  size: 232, 83
+  orig: 256, 140
+  offset: 16, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0020
+  rotate: false
+  xy: 2, 826
+  size: 222, 82
+  orig: 256, 140
+  offset: 17, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0022
+  rotate: false
+  xy: 2, 741
+  size: 222, 83
+  orig: 256, 140
+  offset: 17, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0024
+  rotate: false
+  xy: 2, 655
+  size: 222, 84
+  orig: 256, 140
+  offset: 17, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0026
+  rotate: false
+  xy: 460, 739
+  size: 222, 83
+  orig: 256, 140
+  offset: 17, 38
+  index: -1
+Ture/eff_wild1/eff_wild_0028
+  rotate: false
+  xy: 727, 907
+  size: 222, 81
+  orig: 256, 140
+  offset: 17, 39
+  index: -1

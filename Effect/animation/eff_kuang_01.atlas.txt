@@ -1,0 +1,132 @@
+
+eff_kuang_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ture/images/images_lingzi1_01
+  rotate: false
+  xy: 2, 790
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_02
+  rotate: true
+  xy: 2, 597
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_03
+  rotate: true
+  xy: 195, 806
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_04
+  rotate: false
+  xy: 211, 597
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_05
+  rotate: true
+  xy: 2, 404
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_06
+  rotate: true
+  xy: 211, 404
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_07
+  rotate: true
+  xy: 404, 806
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_08
+  rotate: true
+  xy: 404, 613
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_09
+  rotate: false
+  xy: 420, 404
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_10
+  rotate: false
+  xy: 613, 790
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_11
+  rotate: false
+  xy: 613, 581
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_12
+  rotate: false
+  xy: 613, 372
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_13
+  rotate: true
+  xy: 2, 211
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_14
+  rotate: false
+  xy: 211, 195
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_15
+  rotate: false
+  xy: 2, 2
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_16
+  rotate: false
+  xy: 404, 195
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_17
+  rotate: true
+  xy: 597, 179
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1
+Ture/images/images_lingzi1_18
+  rotate: true
+  xy: 195, 2
+  size: 191, 207
+  orig: 191, 207
+  offset: 0, 0
+  index: -1

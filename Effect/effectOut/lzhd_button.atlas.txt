@@ -1,0 +1,307 @@
+
+lzhd_button.png
+size: 1944,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1839, 131
+  size: 108, 100
+  orig: 128, 128
+  offset: 11, 4
+  index: -1
+10
+  rotate: true
+  xy: 1242, 228
+  size: 118, 112
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+11
+  rotate: true
+  xy: 1356, 230
+  size: 116, 109
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+12
+  rotate: false
+  xy: 1698, 4
+  size: 112, 109
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+13
+  rotate: true
+  xy: 1540, 114
+  size: 115, 109
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+14
+  rotate: true
+  xy: 1429, 112
+  size: 116, 109
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+15
+  rotate: false
+  xy: 1582, 3
+  size: 114, 109
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+16
+  rotate: false
+  xy: 1244, 2
+  size: 109, 102
+  orig: 128, 128
+  offset: 10, 4
+  index: -1
+1q
+  rotate: false
+  xy: 2, 14
+  size: 148, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1839, 241
+  size: 105, 101
+  orig: 128, 128
+  offset: 13, 4
+  index: -1
+2q
+  rotate: true
+  xy: 152, 14
+  size: 150, 146
+  orig: 150, 150
+  offset: 0, 3
+  index: -1
+3
+  rotate: true
+  xy: 1355, 2
+  size: 105, 112
+  orig: 128, 128
+  offset: 14, 5
+  index: -1
+3q
+  rotate: false
+  xy: 488, 197
+  size: 149, 149
+  orig: 150, 150
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 1730, 234
+  size: 107, 112
+  orig: 128, 128
+  offset: 14, 5
+  index: -1
+4q
+  rotate: false
+  xy: 353, 196
+  size: 133, 150
+  orig: 150, 150
+  offset: 9, 0
+  index: -1
+5
+  rotate: false
+  xy: 1651, 115
+  size: 111, 114
+  orig: 128, 128
+  offset: 10, 4
+  index: -1
+5q
+  rotate: false
+  xy: 465, 44
+  size: 133, 150
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+6
+  rotate: true
+  xy: 1467, 231
+  size: 115, 110
+  orig: 128, 128
+  offset: 6, 8
+  index: -1
+6q
+  rotate: false
+  xy: 639, 207
+  size: 138, 139
+  orig: 150, 150
+  offset: 0, 10
+  index: -1
+7
+  rotate: true
+  xy: 1314, 109
+  size: 117, 113
+  orig: 128, 128
+  offset: 5, 8
+  index: -1
+7q
+  rotate: true
+  xy: 600, 51
+  size: 144, 120
+  orig: 150, 150
+  offset: 0, 14
+  index: -1
+8
+  rotate: true
+  xy: 1196, 106
+  size: 118, 116
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+8q
+  rotate: true
+  xy: 722, 72
+  size: 133, 98
+  orig: 150, 150
+  offset: 8, 18
+  index: -1
+9
+  rotate: true
+  xy: 1079, 103
+  size: 120, 115
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+Lzhd_icon_Pan
+  rotate: false
+  xy: 2, 166
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Lzhd_icon_Xuanzhuan
+  rotate: false
+  xy: 1469, 2
+  size: 111, 108
+  orig: 111, 109
+  offset: 0, 1
+  index: -1
+a1
+  rotate: true
+  xy: 822, 94
+  size: 123, 89
+  orig: 127, 97
+  offset: 3, 7
+  index: -1
+a10
+  rotate: true
+  xy: 907, 223
+  size: 123, 84
+  orig: 126, 96
+  offset: 2, 11
+  index: -1
+a2
+  rotate: false
+  xy: 923, 5
+  size: 121, 91
+  orig: 124, 99
+  offset: 2, 7
+  index: -1
+a3
+  rotate: true
+  xy: 995, 101
+  size: 121, 82
+  orig: 123, 90
+  offset: 1, 7
+  index: -1
+a4
+  rotate: true
+  xy: 993, 224
+  size: 122, 84
+  orig: 124, 93
+  offset: 1, 8
+  index: -1
+a5
+  rotate: true
+  xy: 1158, 226
+  size: 120, 82
+  orig: 123, 93
+  offset: 2, 10
+  index: -1
+a6
+  rotate: true
+  xy: 1656, 232
+  size: 114, 72
+  orig: 117, 83
+  offset: 2, 10
+  index: -1
+a7
+  rotate: true
+  xy: 1579, 231
+  size: 115, 75
+  orig: 122, 86
+  offset: 4, 10
+  index: -1
+a8
+  rotate: true
+  xy: 1079, 225
+  size: 121, 77
+  orig: 124, 87
+  offset: 1, 9
+  index: -1
+a9
+  rotate: true
+  xy: 913, 98
+  size: 123, 80
+  orig: 126, 93
+  offset: 2, 12
+  index: -1
+caishendao_button2
+  rotate: true
+  xy: 184, 175
+  size: 171, 167
+  orig: 172, 167
+  offset: 0, 0
+  index: -1
+dibang
+  rotate: false
+  xy: 300, 10
+  size: 163, 163
+  orig: 166, 166
+  offset: 1, 1
+  index: -1
+guangquan
+  rotate: false
+  xy: 822, 5
+  size: 99, 87
+  orig: 101, 92
+  offset: 1, 2
+  index: -1
+iyu
+  rotate: false
+  xy: 779, 219
+  size: 126, 127
+  orig: 130, 131
+  offset: 3, 1
+  index: -1
+oo
+  rotate: false
+  xy: 1812, 29
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+ttt
+  rotate: false
+  xy: 1046, 4
+  size: 95, 95
+  orig: 128, 128
+  offset: 17, 16
+  index: -1
+y1
+  rotate: false
+  xy: 1143, 2
+  size: 99, 99
+  orig: 101, 101
+  offset: 1, 1
+  index: -1

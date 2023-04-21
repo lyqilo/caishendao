@@ -1,0 +1,132 @@
+
+ani_hongbao2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ture/eff_hongbao2/Itemhongbao2_0000
+  rotate: false
+  xy: 2, 756
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0002
+  rotate: false
+  xy: 178, 756
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0004
+  rotate: false
+  xy: 354, 756
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0005
+  rotate: false
+  xy: 530, 756
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0007
+  rotate: false
+  xy: 706, 756
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0009
+  rotate: true
+  xy: 882, 657
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0010
+  rotate: true
+  xy: 2, 580
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0012
+  rotate: false
+  xy: 2, 882
+  size: 174, 125
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0014
+  rotate: false
+  xy: 128, 630
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0015
+  rotate: false
+  xy: 178, 882
+  size: 174, 125
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0017
+  rotate: false
+  xy: 354, 882
+  size: 174, 125
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0019
+  rotate: false
+  xy: 530, 882
+  size: 174, 125
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0020
+  rotate: false
+  xy: 706, 882
+  size: 174, 125
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0022
+  rotate: true
+  xy: 882, 833
+  size: 174, 125
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0024
+  rotate: false
+  xy: 304, 630
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0025
+  rotate: false
+  xy: 480, 630
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0027
+  rotate: false
+  xy: 656, 630
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1
+Ture/eff_hongbao2/Itemhongbao2_0029
+  rotate: false
+  xy: 832, 531
+  size: 174, 124
+  orig: 200, 200
+  offset: 13, 39
+  index: -1

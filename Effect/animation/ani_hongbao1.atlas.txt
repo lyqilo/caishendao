@@ -1,0 +1,132 @@
+
+ani_hongbao1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ture/eff_hongbao1/images_hongbaod_0000
+  rotate: true
+  xy: 114, 194
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0002
+  rotate: true
+  xy: 210, 402
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0004
+  rotate: true
+  xy: 210, 306
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0005
+  rotate: false
+  xy: 225, 195
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0007
+  rotate: true
+  xy: 225, 99
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0009
+  rotate: false
+  xy: 2, 386
+  size: 94, 110
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0010
+  rotate: true
+  xy: 2, 290
+  size: 94, 110
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0012
+  rotate: true
+  xy: 98, 402
+  size: 94, 110
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0014
+  rotate: false
+  xy: 114, 290
+  size: 94, 110
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0015
+  rotate: true
+  xy: 2, 194
+  size: 94, 110
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0017
+  rotate: true
+  xy: 2, 98
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0019
+  rotate: false
+  xy: 113, 83
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0020
+  rotate: true
+  xy: 2, 2
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0022
+  rotate: true
+  xy: 209, 3
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0024
+  rotate: true
+  xy: 320, 3
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0025
+  rotate: false
+  xy: 321, 387
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0027
+  rotate: false
+  xy: 321, 276
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1
+Ture/eff_hongbao1/images_hongbaod_0029
+  rotate: false
+  xy: 336, 165
+  size: 94, 109
+  orig: 180, 180
+  offset: 43, 37
+  index: -1

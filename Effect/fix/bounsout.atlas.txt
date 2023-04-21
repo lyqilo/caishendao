@@ -1,0 +1,132 @@
+
+bounsout.png
+size: 720,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G3
+  rotate: false
+  xy: 520, 842
+  size: 198, 198
+  orig: 200, 201
+  offset: 1, 2
+  index: -1
+TOTALWIN
+  rotate: true
+  xy: 203, 260
+  size: 497, 72
+  orig: 499, 74
+  offset: 1, 1
+  index: -1
+Tishi00juanzhou
+  rotate: true
+  xy: 2, 241
+  size: 799, 199
+  orig: 801, 201
+  offset: 1, 1
+  index: -1
+a
+  rotate: true
+  xy: 544, 34
+  size: 399, 71
+  orig: 404, 78
+  offset: 4, 1
+  index: -1
+aa
+  rotate: true
+  xy: 401, 274
+  size: 483, 59
+  orig: 491, 66
+  offset: 5, 1
+  index: -1
+b
+  rotate: true
+  xy: 462, 351
+  size: 406, 80
+  orig: 408, 83
+  offset: 1, 2
+  index: -1
+bb
+  rotate: true
+  xy: 277, 262
+  size: 495, 69
+  orig: 499, 74
+  offset: 2, 3
+  index: -1
+c
+  rotate: true
+  xy: 544, 435
+  size: 405, 71
+  orig: 408, 79
+  offset: 1, 7
+  index: -1
+cc
+  rotate: true
+  xy: 348, 262
+  size: 495, 51
+  orig: 499, 60
+  offset: 2, 7
+  index: -1
+gaung
+  rotate: false
+  xy: 617, 40
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+gaungxiao2
+  rotate: false
+  xy: 2, 19
+  size: 218, 220
+  orig: 240, 232
+  offset: 11, 11
+  index: -1
+gongxihuode
+  rotate: true
+  xy: 617, 441
+  size: 399, 75
+  orig: 399, 75
+  offset: 0, 0
+  index: -1
+guangg
+  rotate: false
+  xy: 222, 2
+  size: 256, 256
+  orig: 289, 288
+  offset: 17, 15
+  index: -1
+hongbao
+  rotate: false
+  xy: 617, 142
+  size: 93, 102
+  orig: 96, 106
+  offset: 1, 2
+  index: -1
+jl
+  rotate: false
+  xy: 480, 194
+  size: 60, 66
+  orig: 60, 67
+  offset: 0, 1
+  index: -1
+k
+  rotate: false
+  xy: 203, 759
+  size: 315, 281
+  orig: 320, 289
+  offset: 5, 0
+  index: -1
+kh
+  rotate: true
+  xy: 462, 262
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 617, 246
+  size: 44, 193
+  orig: 53, 207
+  offset: 4, 7
+  index: -1

@@ -1,0 +1,132 @@
+
+totalwin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G3
+  rotate: false
+  xy: 803, 813
+  size: 198, 199
+  orig: 200, 201
+  offset: 1, 1
+  index: -1
+TOTALWIN
+  rotate: false
+  xy: 324, 739
+  size: 497, 72
+  orig: 499, 74
+  offset: 1, 1
+  index: -1
+Tishi00juanzhou
+  rotate: false
+  xy: 2, 813
+  size: 799, 199
+  orig: 801, 201
+  offset: 1, 1
+  index: -1
+a
+  rotate: false
+  xy: 291, 293
+  size: 348, 72
+  orig: 350, 74
+  offset: 1, 1
+  index: -1
+aa
+  rotate: false
+  xy: 324, 539
+  size: 489, 64
+  orig: 491, 66
+  offset: 1, 1
+  index: -1
+b
+  rotate: false
+  xy: 291, 367
+  size: 349, 83
+  orig: 351, 85
+  offset: 1, 1
+  index: -1
+bb
+  rotate: false
+  xy: 324, 665
+  size: 497, 72
+  orig: 499, 74
+  offset: 1, 1
+  index: -1
+c
+  rotate: false
+  xy: 291, 225
+  size: 347, 66
+  orig: 349, 68
+  offset: 1, 1
+  index: -1
+cc
+  rotate: false
+  xy: 324, 605
+  size: 497, 58
+  orig: 499, 60
+  offset: 1, 1
+  index: -1
+gaung
+  rotate: false
+  xy: 878, 711
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+gaungxiao2
+  rotate: false
+  xy: 2, 2
+  size: 238, 230
+  orig: 240, 232
+  offset: 1, 1
+  index: -1
+gongxihuode
+  rotate: false
+  xy: 324, 452
+  size: 350, 85
+  orig: 352, 87
+  offset: 1, 1
+  index: -1
+guangg
+  rotate: false
+  xy: 2, 234
+  size: 287, 286
+  orig: 289, 288
+  offset: 1, 1
+  index: -1
+hongbao
+  rotate: false
+  xy: 878, 605
+  size: 93, 104
+  orig: 96, 106
+  offset: 1, 1
+  index: -1
+jl
+  rotate: false
+  xy: 815, 535
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 2, 522
+  size: 320, 289
+  orig: 320, 289
+  offset: 0, 0
+  index: -1
+kh
+  rotate: false
+  xy: 676, 472
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 823, 604
+  size: 53, 207
+  orig: 53, 207
+  offset: 0, 0
+  index: -1

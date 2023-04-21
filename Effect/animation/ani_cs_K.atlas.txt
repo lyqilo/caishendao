@@ -1,0 +1,132 @@
+
+ani_cs_K.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ture/eff_Itemk/Itemk1_0000
+  rotate: false
+  xy: 2, 2
+  size: 136, 147
+  orig: 160, 160
+  offset: 11, 10
+  index: -1
+Ture/eff_Itemk/Itemk1_0002
+  rotate: false
+  xy: 2, 451
+  size: 135, 148
+  orig: 160, 160
+  offset: 12, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0004
+  rotate: false
+  xy: 2, 301
+  size: 135, 148
+  orig: 160, 160
+  offset: 12, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0005
+  rotate: false
+  xy: 2, 151
+  size: 135, 148
+  orig: 160, 160
+  offset: 12, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0007
+  rotate: false
+  xy: 2, 751
+  size: 136, 148
+  orig: 160, 160
+  offset: 12, 10
+  index: -1
+Ture/eff_Itemk/Itemk1_0009
+  rotate: false
+  xy: 139, 154
+  size: 134, 147
+  orig: 160, 160
+  offset: 13, 11
+  index: -1
+Ture/eff_Itemk/Itemk1_0010
+  rotate: false
+  xy: 276, 304
+  size: 133, 146
+  orig: 160, 160
+  offset: 14, 10
+  index: -1
+Ture/eff_Itemk/Itemk1_0012
+  rotate: false
+  xy: 278, 755
+  size: 133, 144
+  orig: 160, 160
+  offset: 14, 10
+  index: -1
+Ture/eff_Itemk/Itemk1_0014
+  rotate: false
+  xy: 278, 609
+  size: 133, 144
+  orig: 160, 160
+  offset: 14, 10
+  index: -1
+Ture/eff_Itemk/Itemk1_0015
+  rotate: false
+  xy: 277, 455
+  size: 133, 146
+  orig: 160, 160
+  offset: 14, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0017
+  rotate: false
+  xy: 276, 6
+  size: 133, 146
+  orig: 160, 160
+  offset: 14, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0019
+  rotate: false
+  xy: 140, 5
+  size: 134, 147
+  orig: 160, 160
+  offset: 13, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0020
+  rotate: false
+  xy: 275, 154
+  size: 134, 147
+  orig: 160, 160
+  offset: 13, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0022
+  rotate: false
+  xy: 139, 303
+  size: 135, 147
+  orig: 160, 160
+  offset: 12, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0024
+  rotate: false
+  xy: 139, 452
+  size: 136, 147
+  orig: 160, 160
+  offset: 11, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0025
+  rotate: false
+  xy: 2, 601
+  size: 136, 148
+  orig: 160, 160
+  offset: 11, 8
+  index: -1
+Ture/eff_Itemk/Itemk1_0027
+  rotate: false
+  xy: 140, 752
+  size: 136, 147
+  orig: 160, 160
+  offset: 11, 9
+  index: -1
+Ture/eff_Itemk/Itemk1_0029
+  rotate: false
+  xy: 140, 603
+  size: 136, 147
+  orig: 160, 160
+  offset: 11, 10
+  index: -1

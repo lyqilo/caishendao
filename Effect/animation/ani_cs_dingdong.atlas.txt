@@ -1,0 +1,209 @@
+
+ani_cs_dingdong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2830b361-5364-4e00-9041-830a6365a4af_01
+  rotate: false
+  xy: 2, 680
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+beijingban
+  rotate: false
+  xy: 421, 866
+  size: 166, 155
+  orig: 210, 157
+  offset: 22, 2
+  index: -1
+caishen_body1
+  rotate: false
+  xy: 206, 760
+  size: 145, 102
+  orig: 145, 103
+  offset: 0, 1
+  index: -1
+caishen_hatyan1
+  rotate: false
+  xy: 587, 687
+  size: 112, 71
+  orig: 113, 71
+  offset: 1, 0
+  index: -1
+caishen_hatyan2
+  rotate: false
+  xy: 400, 610
+  size: 112, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+caishen_head
+  rotate: true
+  xy: 214, 864
+  size: 157, 205
+  orig: 172, 278
+  offset: 0, 73
+  index: -1
+cristal_tail001
+  rotate: true
+  xy: 415, 683
+  size: 76, 113
+  orig: 128, 128
+  offset: 27, 10
+  index: -1
+eff_Moustache
+  rotate: true
+  xy: 353, 736
+  size: 40, 60
+  orig: 40, 61
+  offset: 0, 1
+  index: -1
+eff_Moustache_huzi
+  rotate: true
+  xy: 514, 555
+  size: 93, 50
+  orig: 93, 52
+  offset: 0, 2
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0000
+  rotate: true
+  xy: 885, 558
+  size: 143, 114
+  orig: 180, 160
+  offset: 21, 23
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0002
+  rotate: true
+  xy: 900, 775
+  size: 149, 115
+  orig: 180, 160
+  offset: 14, 24
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0004
+  rotate: false
+  xy: 748, 797
+  size: 149, 114
+  orig: 180, 160
+  offset: 11, 27
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0006
+  rotate: false
+  xy: 738, 684
+  size: 145, 111
+  orig: 180, 160
+  offset: 14, 28
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0008
+  rotate: false
+  xy: 421, 761
+  size: 145, 103
+  orig: 180, 160
+  offset: 13, 30
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0010
+  rotate: false
+  xy: 748, 913
+  size: 150, 108
+  orig: 180, 160
+  offset: 8, 25
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0012
+  rotate: false
+  xy: 589, 760
+  size: 147, 110
+  orig: 180, 160
+  offset: 10, 23
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0014
+  rotate: false
+  xy: 206, 651
+  size: 138, 107
+  orig: 180, 160
+  offset: 18, 27
+  index: -1
+eff_caishen_goldlight/eff_gold_light_0016
+  rotate: false
+  xy: 900, 926
+  size: 119, 95
+  orig: 180, 160
+  offset: 43, 36
+  index: -1
+fcailian1
+  rotate: false
+  xy: 346, 623
+  size: 52, 111
+  orig: 52, 112
+  offset: 0, 0
+  index: -1
+images_caishen2
+  rotate: false
+  xy: 2, 884
+  size: 210, 137
+  orig: 210, 157
+  offset: 0, 0
+  index: -1
+images_caishen_eye2
+  rotate: false
+  xy: 584, 638
+  size: 110, 47
+  orig: 110, 47
+  offset: 0, 0
+  index: -1
+images_tongqin01
+  rotate: false
+  xy: 589, 872
+  size: 157, 149
+  orig: 160, 156
+  offset: 3, 2
+  index: -1
+jinzi_01
+  rotate: true
+  xy: 353, 778
+  size: 84, 60
+  orig: 85, 62
+  offset: 1, 1
+  index: -1
+left_hand1
+  rotate: true
+  xy: 701, 716
+  size: 42, 35
+  orig: 44, 36
+  offset: 2, 0
+  index: -1
+left_hand_01
+  rotate: false
+  xy: 530, 650
+  size: 52, 79
+  orig: 53, 80
+  offset: 1, 1
+  index: -1
+right_hand
+  rotate: false
+  xy: 530, 731
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+right_hand_01
+  rotate: true
+  xy: 885, 703
+  size: 70, 125
+  orig: 71, 126
+  offset: 1, 1
+  index: -1
+zhougan1
+  rotate: true
+  xy: 1001, 631
+  size: 70, 20
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+zhougan2
+  rotate: true
+  xy: 1001, 559
+  size: 70, 20
+  orig: 70, 21
+  offset: 0, 0
+  index: -1

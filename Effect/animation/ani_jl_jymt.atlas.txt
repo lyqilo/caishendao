@@ -1,0 +1,244 @@
+
+ani_jl_jymt.png
+size: 1952,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CSD_hengxiang/images/FA_guagn1
+  rotate: false
+  xy: 671, 110
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+Fireworks_red/Fireworks_red01
+  rotate: false
+  xy: 1781, 70
+  size: 86, 86
+  orig: 168, 174
+  offset: 40, 43
+  index: -1
+Fireworks_red/Fireworks_red010
+  rotate: false
+  xy: 1266, 157
+  size: 144, 140
+  orig: 168, 174
+  offset: 10, 16
+  index: -1
+Fireworks_red/Fireworks_red011
+  rotate: false
+  xy: 822, 153
+  size: 144, 144
+  orig: 168, 174
+  offset: 10, 12
+  index: -1
+Fireworks_red/Fireworks_red012
+  rotate: true
+  xy: 1412, 159
+  size: 138, 144
+  orig: 168, 174
+  offset: 19, 9
+  index: -1
+Fireworks_red/Fireworks_red013
+  rotate: true
+  xy: 968, 19
+  size: 136, 139
+  orig: 168, 174
+  offset: 16, 17
+  index: -1
+Fireworks_red/Fireworks_red014
+  rotate: false
+  xy: 1246, 22
+  size: 137, 133
+  orig: 168, 174
+  offset: 15, 18
+  index: -1
+Fireworks_red/Fireworks_red015
+  rotate: false
+  xy: 1517, 26
+  size: 129, 131
+  orig: 168, 174
+  offset: 22, 23
+  index: -1
+Fireworks_red/Fireworks_red016
+  rotate: false
+  xy: 1648, 28
+  size: 131, 128
+  orig: 168, 174
+  offset: 18, 22
+  index: -1
+Fireworks_red/Fireworks_red017
+  rotate: true
+  xy: 1385, 16
+  size: 139, 130
+  orig: 168, 174
+  offset: 7, 22
+  index: -1
+Fireworks_red/Fireworks_red018
+  rotate: false
+  xy: 515, 2
+  size: 121, 108
+  orig: 168, 174
+  offset: 24, 38
+  index: -1
+Fireworks_red/Fireworks_red02
+  rotate: false
+  xy: 1844, 191
+  size: 105, 106
+  orig: 168, 174
+  offset: 31, 34
+  index: -1
+Fireworks_red/Fireworks_red03
+  rotate: false
+  xy: 822, 28
+  size: 140, 123
+  orig: 168, 174
+  offset: 21, 24
+  index: -1
+Fireworks_red/Fireworks_red04
+  rotate: false
+  xy: 1558, 159
+  size: 143, 138
+  orig: 168, 174
+  offset: 10, 19
+  index: -1
+Fireworks_red/Fireworks_red05
+  rotate: false
+  xy: 1109, 17
+  size: 135, 138
+  orig: 168, 174
+  offset: 17, 18
+  index: -1
+Fireworks_red/Fireworks_red06
+  rotate: false
+  xy: 1116, 160
+  size: 148, 137
+  orig: 168, 174
+  offset: 16, 18
+  index: -1
+Fireworks_red/Fireworks_red07
+  rotate: false
+  xy: 1703, 158
+  size: 139, 139
+  orig: 168, 174
+  offset: 14, 16
+  index: -1
+Fireworks_red/Fireworks_red08
+  rotate: false
+  xy: 515, 112
+  size: 154, 147
+  orig: 168, 174
+  offset: 13, 9
+  index: -1
+Fireworks_red/Fireworks_red09
+  rotate: false
+  xy: 968, 157
+  size: 146, 140
+  orig: 168, 174
+  offset: 14, 16
+  index: -1
+Tishi00juanzhou
+  rotate: false
+  xy: 2, 261
+  size: 713, 240
+  orig: 715, 242
+  offset: 1, 1
+  index: -1
+eff_dujinruyu/eff_jymt_0000
+  rotate: false
+  xy: 2, 210
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0002
+  rotate: false
+  xy: 717, 452
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0004
+  rotate: false
+  xy: 2, 159
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0006
+  rotate: false
+  xy: 717, 401
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0008
+  rotate: false
+  xy: 1230, 452
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0010
+  rotate: false
+  xy: 2, 108
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0012
+  rotate: false
+  xy: 717, 350
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0014
+  rotate: false
+  xy: 1230, 401
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0016
+  rotate: false
+  xy: 2, 57
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0018
+  rotate: false
+  xy: 717, 299
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0020
+  rotate: false
+  xy: 1230, 350
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+eff_dujinruyu/eff_jymt_0022
+  rotate: false
+  xy: 2, 6
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1
+images_shaoguagn1
+  rotate: true
+  xy: 1743, 299
+  size: 202, 205
+  orig: 212, 212
+  offset: 6, 1
+  index: -1
+txt_jinyumantang1
+  rotate: false
+  xy: 1230, 299
+  size: 511, 49
+  orig: 522, 92
+  offset: 6, 21
+  index: -1

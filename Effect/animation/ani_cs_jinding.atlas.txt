@@ -1,0 +1,118 @@
+
+ani_cs_jinding.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ture/Itemyuanbao2
+  rotate: true
+  xy: 841, 792
+  size: 195, 128
+  orig: 197, 129
+  offset: 1, 1
+  index: -1
+Ture/eff_jinding/eff_jinding1_0000
+  rotate: false
+  xy: 2, 619
+  size: 210, 123
+  orig: 260, 180
+  offset: 25, 47
+  index: -1
+Ture/eff_jinding/eff_jinding1_0002
+  rotate: false
+  xy: 214, 742
+  size: 210, 122
+  orig: 260, 180
+  offset: 25, 48
+  index: -1
+Ture/eff_jinding/eff_jinding1_0004
+  rotate: false
+  xy: 417, 866
+  size: 210, 121
+  orig: 260, 180
+  offset: 25, 49
+  index: -1
+Ture/eff_jinding/eff_jinding1_0006
+  rotate: false
+  xy: 211, 867
+  size: 204, 120
+  orig: 260, 180
+  offset: 31, 50
+  index: -1
+Ture/eff_jinding/eff_jinding1_0008
+  rotate: false
+  xy: 2, 868
+  size: 207, 119
+  orig: 260, 180
+  offset: 28, 51
+  index: -1
+Ture/eff_jinding/eff_jinding1_0010
+  rotate: false
+  xy: 214, 612
+  size: 210, 128
+  orig: 260, 180
+  offset: 25, 42
+  index: -1
+Ture/eff_jinding/eff_jinding1_0012
+  rotate: false
+  xy: 426, 604
+  size: 210, 136
+  orig: 260, 180
+  offset: 25, 34
+  index: -1
+Ture/eff_jinding/eff_jinding1_0014
+  rotate: true
+  xy: 850, 580
+  size: 210, 137
+  orig: 260, 180
+  offset: 25, 33
+  index: -1
+Ture/eff_jinding/eff_jinding1_0016
+  rotate: false
+  xy: 2, 479
+  size: 210, 138
+  orig: 260, 180
+  offset: 25, 32
+  index: -1
+Ture/eff_jinding/eff_jinding1_0018
+  rotate: false
+  xy: 214, 472
+  size: 210, 138
+  orig: 260, 180
+  offset: 25, 32
+  index: -1
+Ture/eff_jinding/eff_jinding1_0020
+  rotate: false
+  xy: 638, 529
+  size: 210, 137
+  orig: 260, 180
+  offset: 25, 33
+  index: -1
+Ture/eff_jinding/eff_jinding1_0022
+  rotate: false
+  xy: 629, 866
+  size: 210, 121
+  orig: 260, 180
+  offset: 25, 49
+  index: -1
+Ture/eff_jinding/eff_jinding1_0024
+  rotate: false
+  xy: 2, 744
+  size: 210, 121
+  orig: 260, 180
+  offset: 25, 49
+  index: -1
+Ture/eff_jinding/eff_jinding1_0026
+  rotate: false
+  xy: 426, 742
+  size: 210, 122
+  orig: 260, 180
+  offset: 25, 48
+  index: -1
+Ture/eff_jinding/eff_jinding1_0028
+  rotate: false
+  xy: 638, 668
+  size: 210, 122
+  orig: 260, 180
+  offset: 25, 48
+  index: -1
