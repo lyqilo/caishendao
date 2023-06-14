@@ -17587,7 +17587,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Game Rules
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1078312bb09d7e2488726559bb679d65, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: be2698773e15f464ea3866fa0a0ec4b4, type: 2}
