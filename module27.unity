@@ -756,7 +756,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 10
   m_fontSizeMax: 14
-  m_fontStyle: 16
+  m_fontStyle: 17
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -2812,7 +2812,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: "\u53D1\u751F\u7684"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1078312bb09d7e2488726559bb679d65, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 5e5cd9d7486283d45a65b6229382acb8, type: 2}
@@ -4215,8 +4215,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cd3141a16587514479901308e2f13489, type: 2}
-  m_sharedMaterial: {fileID: 6903654656743332149, guid: cd3141a16587514479901308e2f13489,
+  m_fontAsset: {fileID: 11400000, guid: 1078312bb09d7e2488726559bb679d65, type: 2}
+  m_sharedMaterial: {fileID: -6001197064409830115, guid: 1078312bb09d7e2488726559bb679d65,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4247,7 +4247,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 15
   m_fontSizeMax: 30
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 1024
   m_textAlignment: 65535
@@ -7471,8 +7471,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cd3141a16587514479901308e2f13489, type: 2}
-  m_sharedMaterial: {fileID: 6903654656743332149, guid: cd3141a16587514479901308e2f13489,
+  m_fontAsset: {fileID: 11400000, guid: 1078312bb09d7e2488726559bb679d65, type: 2}
+  m_sharedMaterial: {fileID: -6001197064409830115, guid: 1078312bb09d7e2488726559bb679d65,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7503,7 +7503,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 15
   m_fontSizeMax: 36
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -19414,7 +19414,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4864223675505399815
 RectTransform:
   m_ObjectHideFlags: 0
@@ -19895,7 +19895,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1919, y: 0}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &4864223675552190413
 MonoBehaviour:
