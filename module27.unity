@@ -2791,7 +2791,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   translationName: 327009
-  FallbackText: 
+  FallbackText: "\u53D1\u751F\u7684"
 --- !u!114 &654550677
 MonoBehaviour:
   m_ObjectHideFlags: 0
